@@ -8,4 +8,12 @@ Saya adalah mahasiswa semester 3 jurusan **Teknonologi Rekayasa Perangkat Lunak*
 
 Saya memiliki ketertarikan untuk belajar dalam hal *Development* dan *Data*.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https:linkedin.com/in/rifki-hakim-pradana-211325387) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https:linkedin.com/in/rifki-hakim-pradana-211325387) ku ya.  
+
+## GitHub Statistik  
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
