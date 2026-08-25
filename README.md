@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Rifki Hakim Pradana**.<br>
+Perkenalkan nama saya **Rifki Hakim Pradana**. <br>
 
 Saya seorang **Mahasiswa** di [Politeknik Kelapa Sawit Citra Widya Edukasi](https://www.poltekcwe.ac.id/)br>
 
